@@ -3,7 +3,7 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
-widget_id: m
+widget_id: recent-posts
 headless: true
 weight: 15
 title: Academic Template
