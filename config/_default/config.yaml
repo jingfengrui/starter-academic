@@ -5,7 +5,8 @@
 
 #title of your site
 title: "Fengrui Jing (敬峰瑞)"
-baseurl: 'https://fengrui.netlify.app/' # Website URL
+#baseurl: 'https://fengrui.netlify.app/' # Website URL
+baseurl: 'http://jingfengrui.top/' # Website URL
 copyright: '© {2021} Fengrui' # Footer text, e.g. '© {year} Me'
 
 ############################
