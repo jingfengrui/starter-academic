@@ -1,6 +1,7 @@
 ---
 title: Fengrui
 role: PhD candidate at Sun Yat-sen University
+avatar_filename: qq图片20210222144500.jpg
 bio: My research interests include environment and perception.
 interests:
   - Artificial Intelligence
@@ -27,22 +28,21 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "PhD in Cartography and Geographic Information System "
+      institution: Sun Yat-sen University
+      year: 2018
+    - course: Master in Physical Geography
+      institution: Shaanxi Normal University
+      year: 2015
+    - course: BSc in Social Work
+      institution: Central China Agricultural University
+      year: 2010
 email: ""
 superuser: true
 highlight_name: false
 ---
+I am a PhD candidate with more than three years experience in the urban issues. Involved in data analysis, project planning and management, and interpersonal communication..
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+我是一名博士研究生，拥有超过三年的经验.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
