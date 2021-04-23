@@ -1,7 +1,7 @@
 ---
 title: Fengrui
 role: PhD candidate at Sun Yat-sen University
-avatar_filename: qq图片20210222144500.jpg
+avatar_filename: null
 bio: My research interests include environment and perception.
 interests:
   - Artificial Intelligence
