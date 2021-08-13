@@ -4,7 +4,7 @@ role: PhD graduate at Sun Yat-sen University
 avatar_filename: avatar.jpg
 bio: My research interests include environment and perception.
 interests:
-  - Artificial Intelligence
+  - Urban studies
   - GIScience
   - Environment
 social:
@@ -43,8 +43,8 @@ highlight_name: false
 ---
 Fengrui is a fresh PhD graduate in Geography (Cartography and Geographic Information Science), supervised by Prof. Dr. Lin Liu at University of Cincinnati. He is a member of AGA-YGWG (Asian Geographical Association - Young Geographer Working Group). His research interests focus on the relationship between urban environment and human health, namely,
 
-•	Environmental interaction and perception
-•	Spatiotemporal analysis based on multi-source data 
-•	Theoretical and methodological development pertaining to urban studies
+* Environmental interaction and perception
+* Spatiotemporal analysis based on multi-source data 
+* Theoretical and methodological development pertaining to urban studies
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
