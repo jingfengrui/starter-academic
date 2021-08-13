@@ -41,8 +41,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a PhD candidate with more than three years experience in the urban issues. Involved in data analysis, project planning and management, and interpersonal communication.
+Fengrui is a fresh PhD graduate in Geography (Cartography and Geographic Information Science), supervised by Prof. Dr. Lin Liu at University of Cincinnati. He is a member of AGA-YGWG (Asian Geographical Association - Young Geographer Working Group). His research interests focus on the relationship between urban environment and human health, namely,
 
-我是一名博士研究生，拥有超过三年的经验.
+•	Environmental interaction and perception
+•	Spatiotemporal analysis based on multi-source data 
+•	Theoretical and methodological development pertaining to urban studies
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
