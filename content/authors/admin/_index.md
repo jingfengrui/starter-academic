@@ -35,16 +35,16 @@ education:
   courses:
     - course: "PhD in Cartography and Geographic Information System "
       institution: Sun Yat-sen University
-      year: 2017
+      year: ""
     - course: Master in Physical Geography
       institution: Shaanxi Normal University
-      year: 2014
+      year: ""
     - course: BSc in Social Work
       institution: Central China Agricultural University
-      year: 2010
+      year: ""
     - course: Minor in Psychology
       institution: Central China Normal University
-      year: 2012
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
