@@ -27,6 +27,7 @@ projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
+  filename: featured.jpg
 url_code: ""
 ---
 
