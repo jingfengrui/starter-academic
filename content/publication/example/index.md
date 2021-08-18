@@ -1,43 +1,47 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
-slides: example
+abstract: Previous literature has examined the relationship between the amount
+  of green space and perceived safety in urban areas, but little is known about
+  the effect of street-view neighborhood greenery on perceived neighborhood
+  safety. Using a deep learning approach, we derived greenery from a massive set
+  of street view images in central Guangzhou. We further tested the
+  relationships and mechanisms between street-view greenery and fear of crime in
+  the neighbor-hood. Results demonstrated that a higher level of neighborhood
+  street-view greenery was associated with a lower fear of crime, and its
+  relationship was mediated by perceived physical incivilities. While increasing
+  street greenery of the micro-environment may reduce fear of crime, this paper
+  also suggests that social factors should be considered when designing
+  ameliorative programs.
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - admin
+  - Fengrui
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In *Wowchemy Conference*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+publication: In *International journal of environmental research and public health*
+summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *IJERPH*
 url_source: ""
 url_video: ""
-title: Assessing the impact of street-view greenspace on fear of crime
+title: Assessing the impact of street-view greenery on fear of neighborhood
+  crime in Guangzhou, China
 doi: ""
 featured: true
 tags: []
 projects:
-  - example
+  - Fearofcrime
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+  filename: featured.jpg
+date: 2021-08-18T08:31:31.912Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
