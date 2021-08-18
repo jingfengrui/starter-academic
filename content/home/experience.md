@@ -25,7 +25,6 @@ experience:
   - title: PhD Student in GIS
     company: Sun Yat-sen University
     company_url: 'http://www.sysu.edu.cn/en/index.htm'
-    company_logo: SYSU
     location: Guangzhou
     date_start: '2017-09-01'
     date_end: '2021-07-01'
@@ -39,7 +38,6 @@ experience:
   - title: Visiting PhD Student
     company: Manchester Metropolitan University
     company_url: 'https://www.mmu.ac.uk/'
-    company_logo: MMU
     location: Manchester
     date_start: '2019-09-01'
     date_end: '2020-03-01'
