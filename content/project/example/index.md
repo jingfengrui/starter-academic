@@ -14,6 +14,7 @@ links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  filename: featured.jpg
 url_code: ""
 ---
 Project Leaders: Prof. Lin Liu and Prof. Suhong Zhou
