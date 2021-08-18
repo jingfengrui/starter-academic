@@ -23,6 +23,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/freddy-fengrui-jing-aa0750137/
+  - display:
+      header: false
+    link: https://www.zhihu.com/people/jing-feng-rui
+    icon_pack: fab
+    icon: Zhihu
 organizations:
   - name: Sun Yat-sen University
     url: http://www.sysu.edu.cn/
@@ -30,13 +35,16 @@ education:
   courses:
     - course: "PhD in Cartography and Geographic Information System "
       institution: Sun Yat-sen University
-      year: 2018
+      year: 2017
     - course: Master in Physical Geography
       institution: Shaanxi Normal University
-      year: 2015
+      year: 2014
     - course: BSc in Social Work
       institution: Central China Agricultural University
       year: 2010
+    - course: Minor in Psychology
+      institution: Central China Normal University
+      year: 2012
 email: ""
 superuser: true
 highlight_name: false
