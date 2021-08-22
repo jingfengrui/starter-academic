@@ -56,3 +56,5 @@ Fengrui is a fresh PhD graduate in Geography (Cartography and Geographic Informa
 * Theoretical and methodological development pertaining to urban studies
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/phdthesis.pdf" "newtab" >}}PhDthesis{{< /staticref >}}.
