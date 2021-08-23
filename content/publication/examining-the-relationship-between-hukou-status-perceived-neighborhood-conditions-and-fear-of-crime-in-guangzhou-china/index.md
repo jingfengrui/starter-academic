@@ -40,7 +40,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-08-23T09:20:14.463Z
