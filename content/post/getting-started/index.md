@@ -1,5 +1,5 @@
 ---
-title: Offer 1
+title: Job Offer 1
 subtitle: Editorial Submission Advisor at Nature Springer Group
 date: 2021-07-12T08:56:07.948Z
 summary: ""
