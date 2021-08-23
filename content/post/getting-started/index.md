@@ -1,12 +1,12 @@
 ---
-title: Career Choice
-subtitle: "Postdoc or Editorial Submission Advisor "
-date: 2021-08-18T08:56:07.948Z
+title: Offer 1
+subtitle: Editorial Submission Advisor at Nature Springer Group
+date: 2021-07-12T08:56:07.948Z
 summary: ""
 draft: false
 featured: false
 authors: []
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags: []
 categories: []
 projects: []
@@ -16,4 +16,4 @@ image:
   placement: 2
   preview_only: false
 ---
-## Na
+## I have got an offer as the Editorial Submission Advisor at Nature Springer Group, located in Nanjing, China
