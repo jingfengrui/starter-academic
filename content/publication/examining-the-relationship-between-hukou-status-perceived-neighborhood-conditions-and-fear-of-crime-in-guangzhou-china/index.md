@@ -36,7 +36,7 @@ abstract: >-
 
   to the international literature by revealing the conditional effect of the hukou on fear in a Chinese city.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.jpg
   focal_point: Smart
