@@ -10,7 +10,7 @@ publication: Journal of Zhejiang University (Science Edition)
 publication_short: JZU
 abstract: ""
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
