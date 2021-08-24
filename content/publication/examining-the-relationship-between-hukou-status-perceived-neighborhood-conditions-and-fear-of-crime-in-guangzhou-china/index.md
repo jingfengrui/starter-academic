@@ -1,11 +1,13 @@
 ---
-title: Hukou status and fear of crime
-subtitle: Examining the Relationship between Hukou Status, Perceived
-  Neighborhood Conditions, and Fear of Crime in Guangzhou, China
+title: Examining the Relationship between Hukou Status, Perceived Neighborhood
+  Conditions, and Fear of Crime in Guangzhou, China
+subtitle: ""
 publication_types:
   - "2"
 authors:
   - Fengrui
+publication: Sustainability
+publication_short: Sustainability
 abstract: >-
   Abstract: Fear of crime can lead to lower satisfaction with life and
   subjective well-being. The indicators
