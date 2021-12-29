@@ -18,7 +18,7 @@ abstract: >-
 
   non-victims’ fear levels. Besides verifying the interaction effect of neighborhood disorder and victimization, the present study finds that neighborhood policing alleviates the harmful effect of violent victimization on fear, while collective efficacy fosters the harmful effect of burglary victimization on fear. This paper underscores the significance of the social context of urban China in explaining the interplay of neighborhood characteristics and victimization on fear of crime.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
