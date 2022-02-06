@@ -23,19 +23,19 @@ twitter: ''
 email: realjingfr@gmail.com
 phone: (+86)15071029775
 address:
-  street: No.135, Xingang Xi Road
-  city: Guangzhou
-  region: Guangdong Province
-  postcode: '510275'
-  country: China
-  country_code: CN
+  street: 709 Bull Street
+  city: Columbia
+  region: South Carolina
+  postcode: '29208'
+  country: the States
+  country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 572 and take the stairs to Office 209 on Floor 2
+  latitude: 'Space'
+  longitude: 'Time'
+directions: Enter Building Callcott and take the stairs to Office 305 on Floor 3
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Monday 09:00 to 18:00'
+  - 'Wednesday 09:00 to 18:00'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
