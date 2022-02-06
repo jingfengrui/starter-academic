@@ -1,6 +1,6 @@
 ---
 title: Fengrui
-role: PhD graduate at Sun Yat-sen University
+role: Postdoc fellow at the University of South Carolina
 avatar_filename: avatar.jpg
 bio: My research interests include environment and perception.
 interests:
@@ -29,8 +29,8 @@ social:
     icon_pack: fab
     icon: Zhihu
 organizations:
-  - name: Sun Yat-sen University
-    url: http://www.sysu.edu.cn/
+  - name: University of South Carolina
+    url: https://sc.edu/
 education:
   courses:
     - course: "PhD in Cartography and Geographic Information System "
@@ -49,7 +49,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Fengrui is a fresh PhD graduate in Geography (Cartography and Geographic Information Science), supervised by Prof. Dr. Lin Liu at University of Cincinnati. He is a member of AGA-YGWG (Asian Geographical Association - Young Geographer Working Group). His research interests focus on the relationship between urban environment and human health, namely,
+Fengrui is a Postdoc research fellow in the Geoinformation and Big Data Research Laboratory (GIBD) at the University of South Carolina, supervised by Dr. Zhenlong Li. He is a member of AGA-YGWG (Asian Geographical Association - Young Geographer Working Group). His research interests focus on the relationship between urban environment and human health, namely,
 
 * Environmental interaction and perception
 * Spatiotemporal analysis based on multi-source data 
