@@ -1,5 +1,5 @@
 ---
-title: Job Offer 2
+title: Job Offer
 date: 2021-08-21T09:03:17.980Z
 draft: false
 featured: false
