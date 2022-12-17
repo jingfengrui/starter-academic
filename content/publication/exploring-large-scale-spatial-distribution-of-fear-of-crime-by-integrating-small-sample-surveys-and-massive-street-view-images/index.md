@@ -5,7 +5,7 @@ publication_types:
   - "0"
   - "2"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
