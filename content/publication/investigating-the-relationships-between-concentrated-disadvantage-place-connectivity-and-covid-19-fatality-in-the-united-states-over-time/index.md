@@ -2,8 +2,10 @@
 title: Investigating the relationships between concentrated disadvantage, place
   connectivity, and COVID-19 fatality in the United States over time
 publication_types:
-  - "0"
-draft: false
+  - "2"
+authors:
+  - Fengrui
+draft: true
 featured: true
 image:
   filename: featured
