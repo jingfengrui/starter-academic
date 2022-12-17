@@ -1,7 +1,7 @@
 ---
 title: Fengrui
 role: Postdoc fellow at the University of South Carolina
-avatar_filename: avatar.jpg
+avatar_filename: fengrui.jpg
 bio: My research interests include environment and perception.
 interests:
   - Urban studies
@@ -53,7 +53,7 @@ Fengrui is a Postdoc research fellow in the Geoinformation and Big Data Research
 
 * Environmental interaction and perception
 * Spatiotemporal analysis based on multi-source data 
-* Theoretical and methodological development pertaining to urban studies
+* Theoretical and methodological development pertaining to urban and health studies
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
